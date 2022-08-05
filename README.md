@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @loisgrato
+- 👀 I’m interested in html/css
+- 🌱 I’m currently learning javascript
